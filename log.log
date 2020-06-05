@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-05T10:31:45.503026800Z</date>
+  <millis>1591353105503</millis>
+  <nanos>26800</nanos>
+  <sequence>0</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Server starts...</message>
+</record>
+<record>
+  <date>2020-06-05T10:31:45.587025400Z</date>
+  <millis>1591353105587</millis>
+  <nanos>25400</nanos>
+  <sequence>1</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #0starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:31:45.589025700Z</date>
+  <millis>1591353105589</millis>
+  <nanos>25700</nanos>
+  <sequence>2</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #1starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:31:45.590025700Z</date>
+  <millis>1591353105590</millis>
+  <nanos>25700</nanos>
+  <sequence>3</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #2starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:31:45.592026Z</date>
+  <millis>1591353105592</millis>
+  <nanos>26000</nanos>
+  <sequence>4</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #3starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:31:45.593025300Z</date>
+  <millis>1591353105593</millis>
+  <nanos>25300</nanos>
+  <sequence>5</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #4starts</message>
+</record>

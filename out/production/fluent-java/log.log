@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-05T10:26:18.919902700Z</date>
+  <millis>1591352778919</millis>
+  <nanos>902700</nanos>
+  <sequence>0</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Server starts...</message>
+</record>
+<record>
+  <date>2020-06-05T10:26:19.054911500Z</date>
+  <millis>1591352779054</millis>
+  <nanos>911500</nanos>
+  <sequence>1</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #0starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:26:19.097903Z</date>
+  <millis>1591352779097</millis>
+  <nanos>903000</nanos>
+  <sequence>2</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #1starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:26:19.099903800Z</date>
+  <millis>1591352779099</millis>
+  <nanos>903800</nanos>
+  <sequence>3</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #2starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:26:19.100903800Z</date>
+  <millis>1591352779100</millis>
+  <nanos>903800</nanos>
+  <sequence>4</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #3starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:26:19.101903300Z</date>
+  <millis>1591352779101</millis>
+  <nanos>903300</nanos>
+  <sequence>5</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Thread #4starts</message>
+</record>
+<record>
+  <date>2020-06-05T10:26:32.477384Z</date>
+  <millis>1591352792477</millis>
+  <nanos>384000</nanos>
+  <sequence>6</sequence>
+  <logger>ru.neman.master.Main</logger>
+  <level>INFO</level>
+  <class>ru.neman.master.Main</class>
+  <method>lambda$main$0</method>
+  <thread>17</thread>
+  <message>read request</message>
+</record>
+</log>
